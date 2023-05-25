@@ -27,3 +27,8 @@ streamlit run app.py
 ```
 ## ScreenShot of Project
 ![Capture](https://github.com/shantanu1905/MovieRecommendation/assets/59206895/b0f34c54-9b13-4529-ac12-79913121817e)
+
+## Additional file Download 
+**similarity.pkl** file is not uploaded as its size is greater than 25mb and *Github* does not allow it to upload. so please download the required file from google drive by clicking on provided link and paste downloaded file it in your root folder where **app.py** is present.
+
+https://drive.google.com/drive/folders/1CvZENRERaXaggJvhODan9nhdmWxUVr3Y?usp=share_link
